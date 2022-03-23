@@ -1,5 +1,4 @@
-%promjena6 promjena na netu
-%promjena7 promjena na kompu
+%promjena1 u promjenu 5 nova grana naj naj naj nja novije
 
 -module(cards).
 -export([kind/1, main/0]).
