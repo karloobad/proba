@@ -1,4 +1,4 @@
-%promjena1 u promjenu 5
+%promjena6 promjena na netu
 
 -module(cards).
 -export([kind/1, main/0]).
