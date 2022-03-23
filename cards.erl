@@ -1,4 +1,4 @@
-%promjena1
+%promjena2
 
 -module(cards).
 -export([kind/1, main/0]).
