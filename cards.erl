@@ -1,11 +1,8 @@
 %promjena1 u promjenu 5 nova grana naj naj naj nja novije
 
-
--export([kind/1, main/0]).
-
+-export([kind/1, main/0])
 -type suit() :: spades | clubs | hearts | diamonds.
--type value() :: 1..10 | j | q | k.
--type card() :: {suit(), value()}.
+-type value() :: 1
 
 -spec kind(card()) -> face | number.
 kind({_, A}) when A >= 1, A =< 10 -> number;
