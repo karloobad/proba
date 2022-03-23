@@ -1,4 +1,4 @@
-%promjena4
+%promjena1 u promjenu 5
 
 -module(cards).
 -export([kind/1, main/0]).
